@@ -47,7 +47,7 @@ export default function PortfolioPage() {
         <div className="glass-panel warm-ring overflow-hidden rounded-[34px] p-4">
           <div className="grid gap-4 md:grid-cols-[0.82fr,1fr]">
             <img
-              src="https://avatars.mds.yandex.net/i?id=e9186acf456c32862241ec10d95af15d828bed4d-11547469-images-thumbs&n=13"
+              src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5oiGLk1ZjsmhnxBSGWDj0IDOt-TINbjQaminSttUchiGuEMxA"
               alt="Мастер по изготовлению лестниц"
               className="h-full min-h-[360px] w-full rounded-[28px] object-cover"
             />
@@ -58,7 +58,7 @@ export default function PortfolioPage() {
               >
                 <BadgeCheck className="h-4 w-4" /> Проверенный практический опыт
               </div>
-              <h2 className="mt-5 font-['Cormorant_Garamond'] text-4xl font-bold leading-none">Александр Мельников</h2>
+              <h2 className="mt-5 font-['Cormorant_Garamond'] text-4xl font-bold leading-none">Кот Тестироващик</h2>
               <p className="mt-2 text-sm font-medium text-text-secondary">Мастер по проектированию и изготовлению лестниц под ключ</p>
               <p className="mt-4 text-sm leading-7 text-text-secondary">
                 Специализируется на современных, комбинированных и интерьерно-выразительных лестницах для частных домов,
