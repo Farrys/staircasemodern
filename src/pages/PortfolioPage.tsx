@@ -47,7 +47,7 @@ export default function PortfolioPage() {
         <div className="glass-panel warm-ring overflow-hidden rounded-[34px] p-4">
           <div className="grid gap-4 md:grid-cols-[0.82fr,1fr]">
             <img
-              src="https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&w=900&q=80"
+              src="https://avatars.mds.yandex.net/i?id=e9186acf456c32862241ec10d95af15d828bed4d-11547469-images-thumbs&n=13"
               alt="Мастер по изготовлению лестниц"
               className="h-full min-h-[360px] w-full rounded-[28px] object-cover"
             />
